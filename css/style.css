@@ -165,3 +165,19 @@ h4{
     font-weight: 400;
 }
 
+#portfolio{
+    margin-bottom: 50px;
+}
+
+.projects{
+    border: #d8d6d6 1px solid;
+    margin: 10px;
+    border-radius: 50px;
+    margin-bottom: 100px;
+}
+
+.projects:hover img{
+    transform: scale(1.03);
+    filter: hue-rotate(10deg) opacity(0.8);
+    transition-duration: 0.5s;
+}
