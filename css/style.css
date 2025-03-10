@@ -3,6 +3,7 @@
     padding: 0px;
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
+    color: #070F18;
 }
 
 body{
@@ -23,7 +24,6 @@ body{
     text-decoration-line: underline;
     margin-top: 40px;
     margin-bottom: 40px;
-    color: #070F18;
 }
 
 a{
@@ -48,7 +48,6 @@ a{
     font-size: 16px;
     line-height: 24px;
     text-align: center;
-    color: #070F18;
 }
 
 #headerCta{
@@ -64,7 +63,7 @@ a{
     color: #000;
 }
 
-#headerCta p{
+p{
     font-weight: 400;
     font-size: 16px;
     line-height: 32px;
@@ -75,9 +74,10 @@ a{
 #headerImg{
     width: 100%;
     margin-left: 42px;
+    text-align: right;
 }
 
-#buttonCta{
+.buttonCta{
     background-color: #1F7CFF;
     color: #FFF;
     font-weight: 600;
@@ -87,4 +87,30 @@ a{
     width: 180px;
     text-align: center;
     line-height: 24px;
+}
+
+#clients{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 70px 0;
+}
+
+#clients p{
+    font-size: 16px;
+    font-weight: 600;
+}
+
+h2.black{
+    color: #000;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+h3.red{
+    color: #F75C4E;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 700;
 }
