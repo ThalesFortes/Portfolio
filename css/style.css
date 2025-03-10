@@ -26,6 +26,10 @@ body{
     color: #070F18;
 }
 
+a{
+    color: #070F18;
+    text-decoration: none;
+}
 
 #menu {
     text-align: right;
@@ -47,3 +51,40 @@ body{
     color: #070F18;
 }
 
+#headerCta{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+}
+
+#headerCta h1{
+    font-weight: 700;
+    font-size: 50px;
+    color: #000;
+}
+
+#headerCta p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    color: #575455;
+}
+
+
+#headerImg{
+    width: 100%;
+    margin-left: 42px;
+}
+
+#buttonCta{
+    background-color: #1F7CFF;
+    color: #FFF;
+    font-weight: 600;
+    font-size: 16px;
+    padding: 12px;
+    border-radius: 50px;
+    width: 180px;
+    text-align: center;
+    line-height: 24px;
+}
