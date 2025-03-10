@@ -101,16 +101,28 @@ p{
     font-weight: 600;
 }
 
+.service{
+    margin: 50px 0;
+}
+
+.textCenter{
+    text-align: center;
+}
+
 h2.black{
     color: #000;
-    text-align: center;
     font-size: 36px;
     font-weight: 700;
 }
 
 h3.red{
     color: #F75C4E;
-    text-align: center;
     font-size: 16px;
     font-weight: 700;
+}
+
+h4{
+    color: #070F18;
+    font-size: 20px;
+    font-weight: 600;
 }
