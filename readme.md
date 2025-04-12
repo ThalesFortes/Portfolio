@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-    <b>- It is a page for capturing clients and presenting the owner's work, which simulates being the portfolio of a real person, with contacts, companies the person has worked for and their work.</b>
-    <b>- The page navigates within itself by ID and sends the email to the interested client.</b>
+    <b>It is a page for capturing clients and presenting the owner's work, which simulates being the portfolio of a real person, with contacts, companies the person has worked for and their work.</b>
+    <b>The page navigates within itself by ID and sends the email to the interested client.</b>
 </p>
 
 <p align="center">
