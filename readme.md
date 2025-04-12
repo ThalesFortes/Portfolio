@@ -1,14 +1,37 @@
-# Portfólio imáginario de um cliente
+<h1 align="center" style="font-weight: bold;">Responsive Portfolio Page 💻</h1>
 
-Para rodar o programa basta baixar o código e clicar no index.
+<p align="center">
+ <a href="#tech">Technologies</a> • 
+ <a href="#started">Getting Started</a> • 
+</p>
 
-## Armazenamento e deploy
+<p align="center">
+    <b>- It is a page for capturing clients and presenting the owner's work, which simulates being the portfolio of a real person, with contacts, companies the person has worked for and their work.</b>
+    <b>- The page navigates within itself by ID and sends the email to the interested client.</b>
+</p>
 
-- Pegamos os dados do formulário pelo formpree e enviamos o email do interessado para o email do dono do portfólio pelo [Formspree](https://formspree.io/forms/mblgjdeg/integration)
-- Deploy foi feito pelo site Netlify [site](https://portfoliopageteste.netlify.app/)
+<p align="center">
+     <a href="PROJECT__URL">📱 https://portfoliopageteste.netlify.app/</a>
+</p>
 
-### Funcionamento
+<h2 id="layout">🎨 Layout</h2>
 
-- É uma página de captura de clientes e apresentação de trabalho do dono, o qual simular ser o portfólio de alguem real, com contatos, empresas para qual a pessoa ja trabalhou e trablhos da mesma.
-- A página navega dentro dela mesmo pelo id e realiza o envio do email do cliente interessado
-  
+<p align="center">
+      <img src="./images/print1.png" alt="Imagem da pagina demonstrando como ela e" width="400px">
+    <img src="./images/print2.png" alt="Imagem da pagina demonstrando como ela e" width="400px">
+</p>
+
+<h2 id="technologies">💻 Technologies</h2>
+
+- HTML5
+- CSS3
+- NETLIFY
+- SheetMonkey
+
+<h2 id="started">🚀 Getting started</h2>
+
+- Just download the project with its assets and run it with liveserve or just by opening the html document
+- We take the form data from formpree and send the interested party's email to the portfolio owner's email via[Formspree](https://formspree.io/forms/mblgjdeg/integration)
+- The implementation was carried out through the Netlify website [site](https://portfoliopageteste.netlify.app/)
+
+
