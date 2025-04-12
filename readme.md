@@ -32,6 +32,6 @@
 
 - Just download the project with its assets and run it with liveserve or just by opening the html document
 - We take the form data from formpree and send the interested party's email to the portfolio owner's email via[Formspree](https://formspree.io/forms/mblgjdeg/integration)
-- The implementation was carried out through the Netlify website [site](https://portfoliopageteste.netlify.app/)
+
 
 
